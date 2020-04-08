@@ -55,7 +55,7 @@
 
 .profile-container section > ul li {
   background: #FFF;
-  padding: 24px;
+  padding: 10px;
   border-radius: 8px;
   -moz-border-radius: 8px;
   -webkit-border-radius: 8px;
@@ -64,12 +64,12 @@
 
 .profile-container section > ul li strong {
   display: block;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
   color: #41414d;
 }
 
 .profile-container section > ul li p + strong {
-  margin-top: 32px;
+  margin-top: 20px;
 }
 
 .profile-container section > ul li p {
